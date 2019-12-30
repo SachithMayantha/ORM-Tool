@@ -1,2 +1,3 @@
 # MyFramework
-Jar file for ORM in java
+Jar file in Java.
+Can use as a Object Relational Mapping tool
