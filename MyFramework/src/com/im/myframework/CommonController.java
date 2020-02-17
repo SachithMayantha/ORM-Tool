@@ -29,4 +29,5 @@ public class CommonController {
 		System.out.println(sql);
 		return sql;
 	}
+	
 }
